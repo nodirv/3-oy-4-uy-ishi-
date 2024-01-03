@@ -1,0 +1,1391 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150.1rem;
+}.home-rdw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-rdw .auto-group-tkqb-eph {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 0rem 19.8rem 0rem 20.2rem;
+  width: 150rem;
+  height: 87.7rem;
+  background: linear-gradient(155.28deg, #383638 2.06%, #0b0b0b 33.08%);
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 14.2rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 {
+  margin: 0rem 0.3rem 12.3rem 0rem;
+  width: calc(100% - 0.3rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .logo-bYu {
+  margin: 0.4rem 21.7rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .logo-bYu .apple-watch-6Vf {
+  margin-right: 0.1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .logo-bYu .mohid-xXs {
+  margin-bottom: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf {
+  margin-bottom: 0.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB {
+  margin-right: 23.2rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .home-BL5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .group-3-4em {
+  box-sizing: border-box;
+  padding-right: 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .group-3-4em .brands-NfT {
+  margin-right: 0.375rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .group-3-4em .chevron-down-UCh {
+  margin-top: 0.5rem;
+  width: 0.75rem;
+  height: 0.375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .recent-products-YiM {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .contact-TaR {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-2-JXB .about-D3o {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu {
+  margin-bottom: 0.1rem;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-13hj-rcZ {
+  box-sizing: border-box;
+  padding: 0.5rem 1.6rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-13hj-rcZ .search-nFK {
+  margin-right: 1.538rem;
+  width: 2.062rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-13hj-rcZ .person-uqj {
+  width: 2.2rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-x7ey-pho {
+  width: 2.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-x7ey-pho .shopping-cart-B2Z {
+  width: 2.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-x7ey-pho .ellipse-1-74d {
+  width: 1.3rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.1rem;
+  background-color: #3858d6;
+  border-radius: 0.65rem;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-7n3b-XZ3 .frame-3-bsf .group-1-viu .auto-group-x7ey-pho .item-1-2Bb {
+  width: 0.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R {
+  width: 100%;
+  height: 56.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 {
+  margin: 5.2rem 19.3rem 6.2rem 0rem;
+  width: 44.8rem;
+  height: calc(100% - 11.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .discover-most-suitable-watches-XGm {
+  margin-bottom: 1.8rem;
+  max-width: 44.8rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2549999952;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .find-the-best-reliable-and-cheap-smart-watches-here-we-focus-on-product-quality-here-you-can-find-smart-watches-of-almost-all-brands-so-why-you-are-waiting-just-order-now-pWm {
+  margin: 0rem 0.7rem 4.9rem 0rem;
+  max-width: 43.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2549999952;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy {
+  margin: 0rem 0.3rem 0rem 0.2rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.9rem 0.8rem 1.9rem;
+  width: calc(100% - 0.5rem);
+  height: 6rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy .group-7-j1T {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy .group-7-j1T .auto-group-yvvw-HYm {
+  box-sizing: border-box;
+  padding: 1.2rem 10rem 1.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy .group-7-j1T .auto-group-yvvw-HYm .group-5-QtH {
+  margin-right: 1.6rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy .group-7-j1T .auto-group-yvvw-HYm .find-the-best-brands-YUh {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2549999952;
+  color: rgba(139, 142, 153, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .auto-group-tqzh-T21 .group-8-qAy .group-7-j1T .group-6-fZK {
+  width: 11.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2550000085;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3858d6;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .auto-group-tkqb-eph .main-section-u1s .auto-group-ykw9-i4R .b2724d5bd682148b44a88441cad7bfa9fe6730original-removebg-preview-1-JcH {
+  width: 46.1rem;
+  height: 56.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb {
+  margin: 0rem 20rem 0rem 20.1rem;
+  box-sizing: border-box;
+  padding-top: 7.3rem;
+  width: calc(100% - 40.1rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 {
+  margin-bottom: 13.5rem;
+  width: 110.2rem;
+  height: 23.9rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-1-UHo {
+  box-sizing: border-box;
+  padding: 4.6rem 5.4rem 4.474rem 4.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-1-UHo .apple-watch-series7-black-myshop-pk-1-removebg-preview-1-aLq {
+  margin-right: 2.6rem;
+  width: 8.5rem;
+  height: 14.8256rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-1-UHo .auto-group-ctiu-ebb {
+  margin: 1.1rem 0rem 1.026rem 0rem;
+  height: calc(100% - 2.1256rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-1-UHo .auto-group-ctiu-ebb .apple-Apq {
+  margin-bottom: 0.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-1-UHo .auto-group-ctiu-ebb .apple-is-one-of-the-most-famous-smart-watches-providing-company-6iV {
+  max-width: 14.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-2-nrD {
+  box-sizing: border-box;
+  padding: 4.6rem 2.4rem 4.3rem 4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-2-nrD .xiaomiredmiwatch2liteazul01l-removebg-preview-1-X37 {
+  margin-right: 2.6608rem;
+  width: 8.6392rem;
+  height: 15rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-2-nrD .auto-group-6pqm-ECR {
+  margin: 1.1rem 0rem 3.1rem 0rem;
+  height: calc(100% - 4.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-2-nrD .auto-group-6pqm-ECR .xiaomi-MH3 {
+  margin-bottom: 0.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .brand-2-nrD .auto-group-6pqm-ECR .xiaomi-smart-watches-are-produced-by-mi-company-VPF {
+  margin-left: 0.3rem;
+  max-width: 17.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .group-9-Nhw {
+  box-sizing: border-box;
+  padding: 4.6rem 3.6rem 4.3rem 3.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .group-9-Nhw .sd-removebg-preview-1-X53 {
+  margin-right: 2.6294rem;
+  width: 9.1706rem;
+  height: 15rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .group-9-Nhw .auto-group-lhw9-FWq {
+  margin: 1.1rem 0rem 1.6rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .group-9-Nhw .auto-group-lhw9-FWq .fitbit-P7F {
+  margin-bottom: 0.1rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .brand-yM3 .group-9-Nhw .auto-group-lhw9-FWq .fitbit-smart-watches-are-best-for-there-health-and-fitness-features-ivD {
+  margin-left: 0.3rem;
+  max-width: 15.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .title-ybF {
+  margin: 0rem 37.35rem 6.2rem 37.35rem;
+  width: calc(100% - 74.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .title-ybF .find-your-favourite-smart-watch-6fs {
+  margin-left: 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #3858d6;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .title-ybF .our-latest-products-o4V {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 {
+  width: 110.2rem;
+  height: 94.8rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw {
+  width: 33.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w {
+  margin-bottom: 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-7bqm-9Gm {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 33.7rem;
+  position: relative;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-7bqm-9Gm .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-5gD {
+  width: 25rem;
+  height: 28.0032rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-7bqm-9Gm .add-to-cart-N9X {
+  width: 3.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 28.1rem;
+  top: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-7bqm-9Gm .wish-list-VE9 {
+  width: 3.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 28.1rem;
+  top: 5.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .apple-smart-i-c3s {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .frame-5-vqF {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-ll73-eFT {
+  margin: 0rem 7.4rem 0rem 7.2rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-ll73-eFT .group-15-yHj {
+  margin-right: 0.3rem;
+  width: 8.7rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-ll73-eFT .group-15-yHj .item-30000-KMb {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2050000191;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-ll73-eFT .group-15-yHj .line-1-2G1 {
+  width: 8.7rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-c1w .auto-group-ll73-eFT .item-25500-A7K {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-ivl9-eHP {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 4.3rem 2.797rem 4.1rem;
+  width: 100%;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-ivl9-eHP .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-aB3 {
+  width: 25rem;
+  height: 28.0032rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .apple-smart-iv-4M7 {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .frame-5-P8V {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-rt25-ucd {
+  margin: 0rem 7.4rem 0rem 7.2rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-rt25-ucd .group-15-pzV {
+  margin-right: 0.3rem;
+  width: 8.7rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-rt25-ucd .group-15-pzV .item-45000-AYZ {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2050000191;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-rt25-ucd .group-15-pzV .line-1-rgH {
+  width: 8.7rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-gyws-TPw .group-16-tZ7 .auto-group-rt25-ucd .item-39900-bds {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM {
+  width: 33.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq {
+  margin-bottom: 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-h4am-ozq {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 4.3rem 2.797rem 4.1rem;
+  width: 100%;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-h4am-ozq .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-YSd {
+  width: 25rem;
+  height: 28.0032rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .apple-smart-ii-2sb {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .frame-5-xmF {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-ecsb-ghF {
+  margin: 0rem 7.4rem 0rem 7.2rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-ecsb-ghF .group-15-RPw {
+  margin-right: 0.3rem;
+  width: 8.7rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-ecsb-ghF .group-15-RPw .item-30000-AcR {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2050000191;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-ecsb-ghF .group-15-RPw .line-1-Ud7 {
+  width: 8.7rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-fNq .auto-group-ecsb-ghF .item-25500-RHT {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ztn1-W41 {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 4.3rem 2.797rem 4.1rem;
+  width: 100%;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ztn1-W41 .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-Ekh {
+  width: 25rem;
+  height: 28.0032rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .samsung-watch-pro-jhT {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .frame-5-TtM {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ocvo-bUm {
+  margin: 0rem 7.4rem 0rem 7.2rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ocvo-bUm .group-15-Kff {
+  margin-right: 0.3rem;
+  width: 8.7rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ocvo-bUm .group-15-Kff .item-30000-sSH {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2050000191;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ocvo-bUm .group-15-Kff .line-1-nJM {
+  width: 8.7rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-vnc9-vAM .group-16-MB7 .auto-group-ocvo-bUm .item-25500-vQZ {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd {
+  width: 33.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH {
+  margin-bottom: 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-3p65-kPb {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 4.3rem 2.797rem 4.1rem;
+  width: 100%;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-3p65-kPb .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-tEu {
+  width: 25rem;
+  height: 28.0032rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .apple-smart-iii-YaM {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .frame-5-H29 {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-iab3-CQ1 {
+  margin: 0rem 7.4rem 0rem 7.2rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-iab3-CQ1 .group-15-KzR {
+  margin-right: 0.3rem;
+  width: 8.7rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-iab3-CQ1 .group-15-KzR .item-30000-m5j {
+  width: 8.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2050000191;
+  color: #8b8e99;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-iab3-CQ1 .group-15-KzR .line-1-sPf {
+  width: 8.7rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-cYH .auto-group-iab3-CQ1 .item-25500-1km {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK .auto-group-mdjr-6nD {
+  margin-bottom: 1.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 4.3rem 2.797rem 4.1rem;
+  width: 100%;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK .auto-group-mdjr-6nD .mkuq3vw34frwatch-45-alum-midnight-nc-7svw34frwfco-removebg-preview-1-1-piD {
+  width: 25rem;
+  height: 28.0032rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK .fitbit-max-1-7xD {
+  margin-bottom: 0.5244rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1e1d1d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK .frame-5-ehF {
+  margin: 0rem 0.747rem 1.147rem 0rem;
+  width: 10.4267rem;
+  height: 1.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .products-vQ1 .auto-group-ii33-Fxd .group-16-wuK .item-15500-ZZK {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2050000827;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM {
+  box-sizing: border-box;
+  padding: 6.5rem 0rem 9.1rem 0rem;
+  width: 100%;
+  row-gap: 13.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .view-more-button-RLd {
+  margin: 0 45.2rem;
+  width: calc(100% - 90.4rem);
+  height: 4.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3858d6;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK {
+  margin-right: 0.1rem;
+  width: 110.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-kamf-pNm {
+  box-sizing: border-box;
+  padding: 0rem 31.65rem 5.3rem 31.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-kamf-pNm .here-are-our-some-of-the-best-clients-Y3s {
+  margin: 0rem 0rem 0.9rem 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #3858d6;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-kamf-pNm .what-people-say-about-us-2zd {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B {
+  margin-bottom: 4.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu {
+  margin: 0.1rem 4.7rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 3rem 4.666rem 3rem 3.432rem;
+  height: 23.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu .sd-removebg-preview-1-1rZ {
+  margin-right: 2.7384rem;
+  width: 16.2301rem;
+  height: 17.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu .auto-group-uqgm-Xpu {
+  margin: 2.8rem 0rem 2.638rem 0rem;
+  height: calc(100% - 5.438rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu .auto-group-uqgm-Xpu .hamza-faizi-s85 {
+  margin-bottom: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu .auto-group-uqgm-Xpu .dont-waste-time-just-order-this-is-the-best-website-to-puschase-smart-watches-Cg9 {
+  margin: 0rem 0rem 1.5rem 0.134rem;
+  max-width: 25.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-Weu .auto-group-uqgm-Xpu .stars-fpd {
+  margin-left: 0.5504rem;
+  width: 10.9044rem;
+  height: 1.662rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 3rem 4.245rem 3rem 3.471rem;
+  height: 23.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo .sd-removebg-preview-1-J6u {
+  margin-right: 3.3681rem;
+  width: 16.4159rem;
+  height: 17.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo .auto-group-uhhs-DUm {
+  margin: 3.1rem 0rem 2.438rem 0rem;
+  height: calc(100% - 5.538rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo .auto-group-uhhs-DUm .hafiz-huzaifa-kUh {
+  margin-bottom: 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo .auto-group-uhhs-DUm .ive-been-purchasing-smart-watches-of-mohid-for-a-long-time-all-the-products-are-good-quality-5ms {
+  margin-bottom: 1.6rem;
+  max-width: 25.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .auto-group-fw5b-y9B .group-9-aRo .auto-group-uhhs-DUm .stars-Zww {
+  margin-left: 0.4956rem;
+  width: 10.9044rem;
+  height: 1.662rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT {
+  margin: 0rem 46.9rem 0rem 49.8rem;
+  width: calc(100% - 96.7rem);
+  display: flex;
+  column-gap: 1.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT .ellipse-3-PRB {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT .ellipse-4-iyF {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT .ellipse-5-f7o {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT .ellipse-6-c33 {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .reviews-syK .dots-GbT .ellipse-7-YSV {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #3858d6;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 3.3rem 11rem 4.3rem 9.7rem;
+  width: calc(100% - 0.1rem);
+  height: 37.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd {
+  margin: 7.4rem 17.8rem 7.4rem 0rem;
+  width: 44.3rem;
+  height: calc(100% - 14.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .auto-group-mycd-K5s {
+  box-sizing: border-box;
+  padding-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .auto-group-mycd-K5s .subscribe-to-newsletter-G17 {
+  margin-bottom: 0.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1d1d1d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .auto-group-mycd-K5s .get-free-guide-about-smart-watches-daily-nk9 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8b8e99;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .enter-box-KEH {
+  box-sizing: border-box;
+  padding: 0.7rem 0.9rem 0.8rem 3rem;
+  width: 100%;
+  height: 6rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .enter-box-KEH .group-7-Akh {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.9rem;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .enter-box-KEH .group-7-Akh .enter-email-address-jJ1 {
+  margin-right: 11.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2549999952;
+  color: rgba(139, 142, 153, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .auto-group-t345-nrd .enter-box-KEH .group-7-Akh .group-6-Sy7 {
+  width: 13.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2549999952;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3858d6;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.home-rdw .secondry-section-jhb .auto-group-g53p-6JM .main-box-gYh .sd-removebg-preview-1-JEd {
+  width: 27.2rem;
+  height: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-rdw .footer--yrZ {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2549999952;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0b0b0b;
+  flex-shrink: 0;
+}
